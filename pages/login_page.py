@@ -1,14 +1,3 @@
-# from selenium import webdriver
-# from selenium.webdriver.common.by import By
-# import time
-# url = 'https://www.naukri.com/'
-# d = webdriver.Chrome()
-# d.get(url)
-# time.sleep(4)
-
-
-
-
 from pages.base_page import BasePage
 from Locators.login_locators import LoginLocators
 
